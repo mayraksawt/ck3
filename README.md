@@ -1,4 +1,4 @@
-# activity12
+# Activity12 (Checkpoint3)
 
 A new Flutter application.
 
